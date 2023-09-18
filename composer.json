@@ -1,0 +1,15 @@
+{
+    "name": "user/say-hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Abdo\\sayHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdellah"
+        }
+    ],
+    "require": {}
+}
